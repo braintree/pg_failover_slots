@@ -1,0 +1,8 @@
+Source: postgresql-pg-failover-slots
+Build-Depends: debhelper, postgresql-server-dev-all (>= 153~)
+XS-Testsuite: autopkgtest
+Maintainer: Brian Cosgrove <bcosgrove@paypal.com>
+
+Package: postgresql-14-pg-failover-slots
+Depends: ${misc:Depends}, ${shlibs:Depends}, postgresql-14
+Architecture: any

@@ -1,0 +1,12 @@
+Package: postgresql-14-pg-failover-slots-dbgsym
+Source: postgresql-pg-failover-slots
+Version: 0:0.0.0-master~bt1
+Auto-Built-Package: debug-symbols
+Architecture: amd64
+Maintainer: Brian Cosgrove <bcosgrove@paypal.com>
+Installed-Size: 56
+Depends: postgresql-14-pg-failover-slots (= 0:0.0.0-master~bt1)
+Section: debug
+Priority: optional
+Description: debug symbols for postgresql-14-pg-failover-slots
+Build-Ids: 30e6096c1427ff6ab84991894643ecfe6d5c6f0d

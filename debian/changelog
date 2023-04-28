@@ -1,0 +1,5 @@
+postgresql-pg-failover-slots (0:0.0.0-master~bt1) UNRELEASED; urgency=medium
+
+  * Packaged by Braintree at 67f720 on master branch of EnterpriseDB/pg_failover_slots
+
+ -- Brian Cosgrove <bcosgrove@paypal.com>  Fri, 28 Apr 2023 16:11:35 +0000

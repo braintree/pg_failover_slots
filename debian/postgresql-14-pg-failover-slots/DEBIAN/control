@@ -1,0 +1,7 @@
+Package: postgresql-14-pg-failover-slots
+Source: postgresql-pg-failover-slots
+Version: 0:0.0.0-master~bt1
+Architecture: amd64
+Maintainer: Brian Cosgrove <bcosgrove@paypal.com>
+Installed-Size: 96
+Depends: postgresql-14, libc6 (>= 2.4), libpq5 (>= 9.0~)

@@ -1,0 +1,3 @@
+Depends: @, postgresql-contrib-14, postgresql-14-pg-failover-slots
+Tests: installcheck
+Restrictions: allow-stderr

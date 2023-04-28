@@ -1,0 +1,5 @@
+2a06ead3a33dfe07ad0765c30691ba73  usr/lib/postgresql/14/lib/bitcode/pg_failover_slots.index.bc
+651ec1eb24cf642587ebec30a6b28a37  usr/lib/postgresql/14/lib/bitcode/pg_failover_slots/pg_failover_slots.bc
+c64dd5a3f8a618bb2130a655bc744bdb  usr/lib/postgresql/14/lib/pg_failover_slots.so
+c07f2098b38d9665e25629e3358b95fa  usr/share/doc/postgresql-14-pg-failover-slots/README.md.gz
+e65a347aec8ccb3e17e06e4432a0d82a  usr/share/doc/postgresql-14-pg-failover-slots/changelog.Debian.gz
