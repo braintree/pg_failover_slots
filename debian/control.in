@@ -6,3 +6,4 @@ Maintainer: Brian Cosgrove <bcosgrove@paypal.com>
 Package: postgresql-PGVERSION-pg-failover-slots
 Depends: ${misc:Depends}, ${shlibs:Depends}, postgresql-PGVERSION
 Architecture: any
+Description: pg_failover_slots packaged for Postgres 14 at Braintree
